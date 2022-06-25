@@ -9,3 +9,5 @@ Algorithms implemented from scratch
 6. Decission Tree
 7. ADA Boost
 8. Bagging
+10. Hierachial CLustering
+11. Self Training
