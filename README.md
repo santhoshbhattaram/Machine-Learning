@@ -11,3 +11,7 @@ Algorithms implemented from scratch
 8. Bagging
 10. Hierachial CLustering
 11. Self Training
+
+
+Project : 
+Hierachical CLustering of Seed Categorization & KNN Implementation from Scratch
